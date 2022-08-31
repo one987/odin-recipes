@@ -3,7 +3,8 @@ curriculum.
 
 I'm also going to leverage my two weeks of experience with FreeCodeCamp.
 
-bla bla bla
+learning how to stage and unstage stuff with git.
+
 One987
 
 # odin-recipes
