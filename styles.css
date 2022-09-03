@@ -3,8 +3,18 @@
 }
 
 body {
-    background-color: #F1E1C3;
+    background-color: #F8F3EA;
     width: fit-content;
+    margin: auto;
+}
+
+.box {
+    margin-top: 20px;
+    padding: 2px 5px 2px 5px;
+    background-color: #fff;
+    width: 700px;
+    height: auto;
+    
 }
 
 .banana {
@@ -16,3 +26,10 @@ body {
     width: 600px;
     height: auto;
 }
+
+.recipes {
+    list-style: none;
+    display:flex;
+    justify-content: right;
+}
+
