@@ -10,11 +10,12 @@ body {
 
 .box {
     margin-top: 20px;
-    padding: 2px 5px 2px 5px;
+    padding: 10px;
     background-color: #fff;
     width: 700px;
     height: auto;
-    
+    display: flex;
+    justify-content: space-between;
 }
 
 .banana {
@@ -29,7 +30,8 @@ body {
 
 .recipes {
     list-style: none;
-    display:flex;
+    display: flex;
     justify-content: right;
 }
+
 
